@@ -5,7 +5,7 @@ you may not use this file except in compliance with the License.
 
 WhatsAsena - Yusuf Usta
 */
-
+levanter_989a005b7f1a446f4b44a1e3f7ddc4790
 const { Sequelize } = require("sequelize")
 const fs = require("fs")
 if (fs.existsSync("config.env"))
